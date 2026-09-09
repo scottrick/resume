@@ -27,9 +27,9 @@ Rust, Java, Kotlin, Android, AI-Assisted Engineering (Claude, LLM Tooling)
 *Dec. 2016 - Present*
 
 * Built and launched a native middleware platform for FireTV. Built tools and infrastructure in Rust and Java, bridged Java Android APIs with native components, and guided partner teams to rewrite Java services in Rust, cutting memory usage and crashes by 80%+.
-* Architected an IPC tool using AIDL to bridge Rust and Android processes. Adopted by 15+ partner teams across FireTV, cutting team onboarding times from weeks to days.
-* Helped build and scale the Amazon Relay logistics Android application from inception to hundreds of thousands of active users. Designed critical modular workflows in Kotlin, including commercial navigation, barcode scanning, and route execution.
-* Reduced ANRs in my team's Android service by 90% through systematic performance profiling and refactoring.
+* Architected an IPC tool used to facilitate communication between Rust and Android processes using AIDL. Adopted by 15+ partner teams across FireTV, cutting team onboarding times from weeks to days.
+* Helped build and scale the Amazon Relay logistics Android application from inception to tens of thousands of active users. Designed critical modular workflows in Kotlin, including commercial navigation, barcode scanning, and route execution.
+* Reduced ANRs in my team's Android service by 90%.
 * Leveraged AI-assisted development workflows to refactor mission-critical legacy systems and more than double unit test code coverage.
 * Built an internal web tool to streamline Amazon Relay driver messaging, transforming a manual, error-prone engineer task into an automated self-service system.
 * Mentored junior engineers and interns on system design, unit testing best practices, and code architecture.
@@ -38,20 +38,20 @@ Rust, Java, Kotlin, Android, AI-Assisted Engineering (Claude, LLM Tooling)
 **SmartThings, Samsung** - *Software Engineer*  
 *Sept. 2012 - Nov. 2016*
 
-* Worked directly with company founders as team lead and scrum master to build and launch the initial SmartThings iOS application, driving platform growth that led to acquisition by Samsung.
-* Transitioned to Android lead, engineering feature parity across platforms including smart device pairing, app-to-backend communications, and livestream video support.
+* Worked directly with company founders to build and launch the initial SmartThings iOS application, driving platform growth that ultimately led to acquisition by Samsung.
+* Transitioned to a role on the Android team as engineer and Scrum master, building feature parity between platforms and implementing smart device pairing, app-to-backend communications, and livestream video support.
 
 **Digital Cyclone, Garmin** - *Software Engineer*  
 *Mar. 2008 - Aug. 2012*
 
-* Built a vector-based aviation map on iOS using C++ and OpenGL, laying the foundation for what evolved into Garmin Pilot.
+* Built a vector-based aviation map on iOS using Objective-C and OpenGL, laying the foundation for what evolved into [Garmin Pilot](https://apps.apple.com/us/app/garmin-pilot/id340917615).
 * Developed and deployed an Android augmented reality weather application featured at CES.
 * Designed and delivered My-Cast Weather to the Google Play Store, and optimized C++ ports for Windows Mobile.
 
 **Destineer Studios** - *Gameplay Programmer*  
 *Mar. 2007 - Feb. 2008*
 
-* Engineered gameplay systems for Six Days in Fallujah (PC/Xbox). Implemented resource preloading to eliminate in-game level stutter and created scene-summary tools to optimize designer workflows.
+* Engineered gameplay systems for Six Days in Fallujah (PC/Xbox). Implemented resource preloading to eliminate in-game level stutter and created scene-summary tools for designers.
 
 **Microsoft** - *Software Developer in Test*  
 *Aug. 2006 - Feb. 2007*
