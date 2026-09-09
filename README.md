@@ -2,6 +2,9 @@
 6438 Clearwater Creek Drive, Lino Lakes, MN 55038 | 612.723.3855  
 scottrick49@gmail.com | [github.com/scottrick](https://github.com/scottrick) | [linkedin.com/in/scottrick](https://linkedin.com/in/scottrick)
 
+**Software Engineer | Android & Rust**  
+*Technology is only as strong as the people behind it.*
+
 ---
 
 ### Education
@@ -14,7 +17,7 @@ University of Minnesota, Institute of Technology
 ### Skills
 
 **Languages / Platforms / Tools**  
-Rust, Java, Kotlin, Android, C++, Objective-C, AIDL, OpenGL, AI-Assisted Engineering (Claude, LLM Tooling)
+Rust, Java, Kotlin, Android, AI-Assisted Engineering (Claude, LLM Tooling)
 
 ---
 
