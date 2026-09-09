@@ -44,7 +44,7 @@ Rust, Java, Kotlin, Android, AI-Assisted Engineering (Claude, LLM Tooling)
 **Digital Cyclone, Garmin** - *Software Engineer*  
 *Mar. 2008 - Aug. 2012*
 
-* Built a vector-based aviation map on iOS using Objective-C and OpenGL, laying the foundation for what evolved into [Garmin Pilot](https://apps.apple.com/us/app/garmin-pilot/id340917615).
+* Built a vector-based aviation map on iOS using Objective-C, laying the foundation for what evolved into [Garmin Pilot](https://apps.apple.com/us/app/garmin-pilot/id340917615).
 * Developed and deployed an Android augmented reality weather application featured at CES.
 * Designed and delivered My-Cast Weather to the Google Play Store, and optimized C++ ports for Windows Mobile.
 
