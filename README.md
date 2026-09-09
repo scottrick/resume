@@ -65,8 +65,8 @@ Rust, Java, Kotlin, Android, C++, Objective-C, AIDL, OpenGL, AI-Assisted Enginee
 * Built and deployed an open source multi-module Android project sharing logic and UX across three production applications on Google Play: [Comlink](https://play.google.com/store/apps/details?id=com.hatfat.swccg), [Ringlore](https://play.google.com/store/apps/details?id=com.hatfat.meccg), and [Combadge](https://play.google.com/store/apps/details?id=com.hatfat.trek1).
 * Reached thousands of downloads with a 4.8 lifetime rating across the suite.
 
-**[Stats for Dota 2](https://play.google.com/store/apps/details?id=com.hatfat.df)**  
+**Stats for Dota 2**  
 *Feb. 2014 - Present*
 
-* Designed, deployed, and maintained an Android statistics application serving 1,600 daily active users with 2,400+ reviews and a 4.7 lifetime rating.
+* Designed, deployed, and maintained [Stats for Dota 2](https://play.google.com/store/apps/details?id=com.hatfat.df), an Android statistics application serving 1,600 daily active users with 2,400+ reviews and a 4.7 lifetime rating.
 * Performed modernizations across codebases, migrating from Holo to Material Design, Java to Kotlin, and RxJava to Kotlin Coroutines.
